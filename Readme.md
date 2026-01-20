@@ -1,1 +1,1 @@
-Hacemos las rams en la parte hirquerda abajo
+Hacemos las rams en la parte izquierda abajo(acordar se qn te tenemos que hacer commit)
